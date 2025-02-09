@@ -70,6 +70,7 @@ body
     height: 500px;
     width: 100%;
     padding-top: 170px;
+    z-index: 10;
 }
 
 .section-1::before {
@@ -338,6 +339,14 @@ body
     .sec3boxs>.box
     {
         margin-bottom: 10px;
+    }
+    .section-6>h3
+    {
+        margin-left: 15px;
+    }
+    .section-4>h1
+    {
+        margin-left: 15px;
     }
     .sec5input>input
     {
