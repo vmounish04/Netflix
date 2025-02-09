@@ -293,6 +293,12 @@ body
         width:auto;
         margin: 0;
     }
+    .headerimg>img
+    {
+        object-fit: cover;
+        height: 40px;
+        width: 120px;
+    }
     .netflix{
         width:auto;
     }
@@ -306,9 +312,17 @@ body
     }
     .sec1below>input
     {
-        width:380px;
+        width:300px;
         margin-bottom: 5px;
+      
     }
+    .sec1below>button
+    {
+        width:250px;
+        margin-bottom: 10px;
+      
+    }
+   
     .section-2
     {
         margin: 0;
@@ -350,7 +364,13 @@ body
     }
     .sec5input>input
     {
-        width: 380px;
+        width: 300px;
+        margin-bottom: 10px;
+
+    }
+    .sec5input>button
+    {
+        width: 150px;
         margin-bottom: 10px;
 
     }
