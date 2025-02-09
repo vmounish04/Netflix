@@ -297,7 +297,7 @@ body
     {
         object-fit: cover;
         height: 40px;
-        width: 120px;
+        width: 95px;
     }
     .netflix{
         width:auto;
@@ -310,6 +310,7 @@ body
     {
         margin-right: 10px;
     }
+
     .sec1below>input
     {
         width:300px;
@@ -322,7 +323,14 @@ body
         margin-bottom: 10px;
       
     }
-   
+    .section-1
+    {
+        padding-top: 5px;
+    }
+    .section-1>h1
+    {
+        font-size: 41px;
+    }
     .section-2
     {
         margin: 0;
